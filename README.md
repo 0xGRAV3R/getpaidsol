@@ -1,9 +1,7 @@
-# Basic CRUD app 
-This is an example of an on-chain CRUD dapp. This example is a journal dapp where you can create, read, update, and delete journal entries on the solana blockchain and interact with the solana program via a UI. 
+# GetPaid App
+GetPaid is a Solana-based application that simplifies the process of receiving payments by utilizing secure and efficient payment links. Users can generate unique payment links, which can be shared with customers or clients to facilitate instant and transparent transactions on the Solana blockchain. The app ensures low transaction fees, fast processing times, and robust security, making it an ideal solution for businesses and individuals looking to streamline their payment processes.
 
-Test it out here: [solana-journal-eight.vercel.app](solana-journal-eight.vercel.app)
-
-This project was created using the [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) generator.
+By leveraging Solana's high-performance capabilities, GetPaid offers a seamless and user-friendly experience for both senders and receivers, supporting various use cases such as e-commerce, freelance services, and peer-to-peer payments.
 
 ## Getting Started
 
